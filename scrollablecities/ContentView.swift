@@ -19,6 +19,11 @@ struct ContentView: View {
                      Card(imageName: "lucerne", cityName: "Lucerne")
                      Card(imageName: "venice", cityName: "Venice")
                      Card(imageName: "rome", cityName: "Rome")
+                    Card(imageName: "athens", cityName: "Athens")
+                    Card(imageName: "barcelona", cityName: "Barcelona")
+                    Card(imageName: "beirut", cityName: "Beirut")
+                    Card(imageName: "bruges", cityName: "Bruges")
+                    Card(imageName: "kyoto", cityName: "Kyoto")
             }
         }
 }
